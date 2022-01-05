@@ -1,0 +1,10 @@
+Intial vote distribution:
+Rosen(D) recieved 6: (50.0%).
+Kleinberg(R) recieved 0: (0.0%).
+Chou(I) recieved 4: (33.33333333333333%).
+Royce(L) recieved 2: (16.666666666666664%).
+Candidates eliminated during Election:
+Kleinberg(R)
+Royce(L)
+Chou(I)
+Rosen(D) won the election.

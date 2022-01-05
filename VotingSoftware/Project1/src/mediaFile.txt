@@ -1,0 +1,9 @@
+Intial Distribution of Votes
+Quota to win a seat is: 3
+D received 5 votes: 55.55555555555556%
+D won 1 seats
+R received 3 votes: 33.33333333333333%
+R won 1 seats
+I received 1 votes: 11.11111111111111%
+I won 0 seats
+D won one remaining seat with 2 votes.

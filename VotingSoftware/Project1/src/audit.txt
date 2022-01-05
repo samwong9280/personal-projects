@@ -1,0 +1,23 @@
+nullNumber of Candidates: 6
+Candidates and Parties: [Pike,D],[Foster,D],[Deutsch,R],[Borg,R],[Jones,R],[Smith,I]
+Number of seats: 3
+Number of votes: 9
+Ballot 1 assigned to: Pike
+Ballot 2 assigned to: Pike
+Ballot 3 assigned to: Foster
+Ballot 4 assigned to: Jones
+Ballot 5 assigned to: Smith
+Ballot 6 assigned to: Borg
+Ballot 7 assigned to: Borg
+Ballot 8 assigned to: Pike
+Ballot 9 assigned to: Foster
+D has won 1 seats, with 5 votes.
+R has won 1 seats, with 3 votes.
+I has won 0 seats, with 1 votes.
+D has won one remaining seat with 2 votes.
+D's seats have been won by:
+Pike
+Foster
+R's seats have been won by:
+Borg
+I's seats have been won by:
